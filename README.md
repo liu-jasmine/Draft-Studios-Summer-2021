@@ -16,3 +16,6 @@ Some notes:
 - Only add images to the imgs folder
 - Keep Components in the _includes folder
 - Do not push /pages/index.html with changes, it will cause merge conflict
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a16a6446-73c8-42e3-96c5-2d97604163cf/deploy-status)](https://app.netlify.com/sites/distracted-ramanujan-7798cf/deploys)
+
